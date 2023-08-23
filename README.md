@@ -1,5 +1,6 @@
 # SMS-based Motivation Messenger
-- Kyle Brandt and Truett Davis
+
+Authored by Kyle Brandt and Truett Davis
 
 An SMS service leveraging Twilio, OpenAI's GPT-4, and Node.js to provide motivational messages to subscribed users every morning at 7:00am.
 
